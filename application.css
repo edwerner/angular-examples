@@ -1,0 +1,27 @@
+#shopping-cart {
+	width: 330px;
+	border: 1px dotted #888;
+	margin: 10px;
+	padding: 10px;
+}
+
+#nav-section {
+	margin: 10px 0px 0px 0px;
+
+}
+
+#panels {
+	margin: 10px 0px 0px 0px;
+}
+
+.panel-element {
+	margin: 10px 0px 0px 0px;
+}
+
+.ng-invalid.ng-dirty {
+	border-color: #FA787E;
+}
+
+.ng-valid.ng-dirty {
+	border-color: #78FA89;
+}

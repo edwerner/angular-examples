@@ -1,0 +1,46 @@
+[{
+	"name": "Ethernet",
+	"price": 2,
+	"description": "Ethernet connector",
+	"canPurchase": true,
+	"images": [
+		{
+			"full": "images/ethernet.png"
+		}
+	],
+	"reviews": [
+		{
+			"stars": "5 stars",
+			"body": "Essential component",
+			"author": "author@author.com"
+		},
+		{
+			"stars": "5 stars",
+			"body": "A must have",
+			"author": "review@reviewer.com"
+		}
+	]
+},
+{
+	"name": "Capacitor",
+	"price": 5.95,
+	"description": "Electrolytic capacitor",
+	"canPurchase": true,
+	"images": [
+		{
+			"full": "images/capacitor.png"
+		}
+	],
+	"reviews": [
+		{
+			"stars": "5 stars",
+			"body": "Essential component",
+			"author": "author@author.com"
+		},
+		{
+			"stars": "5 stars",
+			"body": "A must have",
+			"author": "review@reviewer.com"
+		}
+	]
+}]

@@ -1,0 +1,6 @@
+<h1>Shopping Cart</h1>
+<div id="shopping-cart" ng-repeat="product in store.products">
+	<product-title></product-title>
+	<button ng-show="product.canPurchase">Add to Cart</button>
+	<product-panels></product-panels>
+</div>
